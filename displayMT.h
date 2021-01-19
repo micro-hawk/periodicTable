@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 void displayModernTable()
 {
    //Displaying the modern periodic table. 
@@ -16,5 +17,6 @@ void displayModernTable()
     cout<<"\tFr Ra Ac Rf Db Sg Bh Hs Mt Ds Uuu Uub -  Uuq -  Uuh"<<"\n\n\n";
     cout<<"\t\t Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu"<<"\n\n";
     cout<<"\t\t Th Pa U  Np Pu Am Cm Bk Cf Es Fm Md No Lr"<<"\n\n\n";
-    
+
+
 }
